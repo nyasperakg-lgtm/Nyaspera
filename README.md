@@ -5,8 +5,8 @@
 ## 🛠 Текущий прогресс
 
 ### 📦 Структуры данных
-- [x] **Stack** 
-- [ ] **Queue / Deque**
+- [ ] **Stack** 
+- [x] **Queue / Deque**
 - [ ] **DSU (СНП)**
 - [ ] **Segment Tree**
 

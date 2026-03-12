@@ -30,4 +30,4 @@
 - `/Contests` — избранные решения с Codeforces и других площадок.
 
 ---
-*Status: Active training for ROI / ICPC goal.*
+*Status: Active training for ICPC goal.*

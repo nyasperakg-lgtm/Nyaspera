@@ -6,7 +6,7 @@
 
 ### 📦 Структуры данных
 - [ ] **Stack** 
-- [x] **Queue / Deque**
+- [ ] **Queue / Deque**
 - [ ] **DSU (СНП)**
 - [ ] **Segment Tree**
 
